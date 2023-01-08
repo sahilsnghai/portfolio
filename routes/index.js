@@ -9,7 +9,7 @@ router.get('/', function(req, res, next) {
 });
 
 /* POST contact page. */
-router.post('/forms', function(req, res, next) {
+router.post('/', function(req, res, next) {
     const {name,email,subject,message} = req.body;
     try {
       const transporter = nodemailer.createTransport(smtpTransport({
@@ -24,7 +24,12 @@ router.post('/forms', function(req, res, next) {
         to: email, // list of receivers
         subject: subject, // Subject line
         // text: "laude", // plain text body
-        html: `<h4 style="font:'montserrat';">Message from ${name}</h4><br><h2>Message: ${message}</h2><br><h5>Email: ${email}</h5>`, // html body
+        html: `
+        Name: ${name}
+        <br>
+        Message: ${message}
+        <br>
+        Email: ${email}`, // html body
       }
       transporter.sendMail(emailOptions, (error,info)=>{
         if (error){
