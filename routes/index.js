@@ -21,7 +21,7 @@ router.post('/', function(req, res, next) {
       }))
       const emailOptions = {
         from: process.env.EMAIL, // sender address
-        to: email, // list of receivers
+        to: 'sahilsinghai5672@gmail.com', // list of receivers
         subject: subject, // Subject line
         // text: "laude", // plain text body
         html: `
