@@ -29,7 +29,7 @@ router.post('/', function(req, res, next) {
         <br>
         Message: ${message}
         <br>
-        Email: ${email}`, // html body
+        Email: ${email}` , // html body
       }
       transporter.sendMail(emailOptions, (error,info)=>{
         if (error){
