@@ -16,7 +16,7 @@ I'm an innovative and creative Python programmer with a Bachelor of Technology i
 
 ## Projects
 
-### [Budgeting and Forecast](#)
+### [Budgeting and Forecast](https://github.com/sahilsnghai/Budget-and-finance)
 *Dec 2023 - Jan 2024*
 
 A Django-based application for managing finances, scenario planning, and budgeting. Utilizes MySQL for data storage and provides a comprehensive tool for financial management.
@@ -30,7 +30,7 @@ A Django-based application for managing finances, scenario planning, and budgeti
 - Django
 - MySQL
 
-### [YouTube Downloader](#)
+### [YouTube Downloader](https://github.com/sahilsnghai/Youtube-downloader)
 *Aug 2022 - Sept 2022*
 
 A Python project that provides a GUI for downloading YouTube videos. Features customizable quality and format options, with a user-friendly interface.
@@ -45,7 +45,7 @@ A Python project that provides a GUI for downloading YouTube videos. Features cu
 - Shutil
 - OS
 
-### [Bondly](#)
+### [Bondly](https://github.com/sahilsnghai/Bondly)
 *Nov 2022 - Jan 2023*
 
 A social platform-inspired application built with Python and Django. It mimics the functionality of major social media platforms and includes features for user interaction.
@@ -59,7 +59,7 @@ A social platform-inspired application built with Python and Django. It mimics t
 - Django
 - HTML/CSS
 
-### [Social Media API](#)
+### [Social Media API](https://github.com/sahilsnghai/Social-Media-via-React)
 *Jun 2022 - Jul 2022*
 
 An implementation of REST API for social media applications, featuring request and response models. Developed with FastAPI, SQLAlchemy, and deployed on Heroku.
@@ -95,7 +95,7 @@ Feel free to reach out for collaborations, job opportunities, or just to connect
 
 - **Phone:** +91 883 995 5166
 - **Email:** [Sahilsinghai5672@gmail.com](mailto:Sahilsinghai5672@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](#)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sahilsinghai/)
 
 ---
 
